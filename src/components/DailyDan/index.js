@@ -7,9 +7,12 @@ class DailyDan extends Component {
 
     return (
       <div className="dan">
-        <h1>The Daily Dan</h1>
+        <h3>The Daily Dan</h3>
         <h3 className="blog-post-text">{dan}</h3>
-        <h4 className="blog-post-text">-Dan Quayle</h4>
+        <h4 className="blog-post-text">
+          - Former Vice President{" "}
+          <a href="https://en.wikipedia.org/wiki/Dan_Quayle">Dan Quayle</a>
+        </h4>
       </div>
     );
   }

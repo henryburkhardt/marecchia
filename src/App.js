@@ -33,7 +33,9 @@ class App extends Component {
               <Route exact path="/" component={MainPage} />
               <Route path="/about" component={About} />
               <Route exact path="/post/:postId" component={Post} />
-              <Route exact path="/opinion" component={Opinion} />
+              <Route exact path="/opinion" component={About} />
+              <Route exact path="/feature" component={About} />
+              <Route exact path="/monotracker" component={About} />
               <Route exact path="/dailydan" component={DailyDan} />
               <Route exact path="/campaigncoverage" component={Election} />
               <Route exact path="/mardle" component={Mardle} />

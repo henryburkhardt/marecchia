@@ -8,24 +8,24 @@ export default class Nav extends React.Component {
         <Link className=" link" to="/">
           Home
         </Link>
-        <Link to="/opinion" className="link">
+        <Link to="/campaigncoverage" className="link">
+          Campaign Coverage
+        </Link>
+        {/* <Link to="/opinion" className="link">
           Opinion
         </Link>
         <Link to="/feature" className="link">
           Feature
-        </Link>
+        </Link> */}
         <Link to="/dailydan" className="link">
           Daily Dan
-        </Link>
-        <Link to="/campaigncoverage" className="link">
-          Campaign Coverage
         </Link>
         <Link to="/monotracker" className="link">
           Mono Tracker
         </Link>
-        <Link to="/mardle" className="link">
+        {/* <Link to="/mardle" className="link">
           Mardle
-        </Link>
+        </Link> */}
         <Link to="/about" className="link">
           About
         </Link>

@@ -3,7 +3,7 @@ class Election extends Component {
   render() {
     return (
       <div className="election">
-        <h1>Live Election Coverage (starting April 1)</h1>
+        <h3>Live Election Coverage (starting April 1)</h3>
         <img
           src={require("./DOS.png")}
           width="50%"

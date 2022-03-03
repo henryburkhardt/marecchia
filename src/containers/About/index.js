@@ -8,7 +8,7 @@ import React from "react";
 const About = (props) => {
   return (
     <>
-      <div>About</div>
+      <h3>About</h3>
       <div className="blog-post-text">
         {" "}
         The Marecchia is grassroots journalism initiative founded locally in
@@ -24,12 +24,12 @@ const About = (props) => {
       <div className="blog-post-text">
         The Marecchia was founded off this one simple principle, presented by
         former Vice President Dan Quayle in 1989. The mind is the most powerful
-        tool known to man, and we feel that our topmost responsibly is to put it
+        tool known to man, and we feel that our upmost responsibly is to put it
         good use. How true that is.
       </div>
       <div className="blog-post-text">
         People often ask us about our reputability to which we respond with
-        three simple words:
+        these simple words:
       </div>
       <div className="blog-post-text">Just trust us.</div>
     </>

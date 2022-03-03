@@ -13,7 +13,9 @@ const Hero = (props) => {
         <a href="/">
           <span className="title">the Marecchia</span>
         </a>
-        <span>Saint Paul Academy's second most respected news source.</span>
+        <div class="subtitle">
+          Saint Paul Academy's second most respected news source.
+        </div>
       </div>
       <Nav />
     </div>

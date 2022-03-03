@@ -49,8 +49,9 @@ a {
   font-weight: 200;
 }
 
-.hero-image .content .title span {
-  color: #fff;
+.hero-image {
+  height: 100%;
+  margin-bottom: 10px;
 }
 
 .main {
@@ -59,7 +60,7 @@ a {
   margin: auto;
 }
 .post-author2 {
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 500;
 }
 
@@ -90,7 +91,7 @@ a {
 }
 
 .News {
-  background-color: black;
+  background-color: red;
   display: inline;
   padding: 2px;
   color: white;
@@ -102,6 +103,7 @@ a {
   font-family: var(--font-title);
   height: 10px;
   margin-bottom: 0px;
+  display: inline;
 }
 
 .my-4 {
@@ -159,7 +161,7 @@ a {
 /* Style the links inside the navigation bar */
 .topnav a {
   text-align: center;
-  padding: 6px 20px;
+  padding: 2px 15px;
   text-decoration: none;
   font-size: 17px;
   display: inline-block;
@@ -181,4 +183,31 @@ a {
   width: 100%;
   border: 1px solid navy;
   height: 70vh;
+}
+
+@media only screen and (max-width: 450px) {
+  .hero-image .content .title {
+    font-weight: 700;
+    font-size: 40px;
+    width: 100%;
+    text-align: left;
+  }
+  .subtitle {
+    font-size: 17px;
+    font-weight: 500;
+    width: 90%;
+  }
+
+  .topnav a {
+    padding: 2px 2px;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 700;
+    text-decoration: underline;
+  }
+
+  .topnav a:after {
+    content: "/";
+    text-decoration: none;
+  }
 }
