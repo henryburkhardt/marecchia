@@ -13,9 +13,7 @@ const About = (props) => {
         {" "}
         The Marecchia is grassroots journalism initiative founded locally in
         Saint Paul by two concerned citizens, with a deep appreciation for the
-        first amendment. Originally conceived in late 2021, the project
-        officially launch in 2022 amidst questionable coverage of unnamed
-        student projects from pre existing journalism organizations.
+        first amendment.
       </div>
       <div className="blog-post-text">
         "What a waste it is to lose one's mind. Or not to have a mind is being

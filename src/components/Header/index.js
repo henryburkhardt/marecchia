@@ -6,7 +6,7 @@ import React from "react";
  **/
 
 const Header = (props) => {
-  return <></>;
+  return <div></div>;
 };
 
 export default Header;

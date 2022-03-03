@@ -9,6 +9,7 @@ import AllPosts from "./components/AllPosts";
 import DailyDan from "./components/DailyDan";
 import Election from "./components/Election";
 import Mardle from "./components/Mardle";
+import MonoTracker from "./components/MonoTracker";
 import {
   HashRouter as Router,
   Switch,
@@ -19,8 +20,15 @@ import {
 
 import MainPage from "./pages";
 import PageNotFound from "./pages/404";
+import ReactGA from "react-ga";
+ReactGA.initialize("UA-132829761-4");
 
 class App extends Component {
+  componentDidMount() {
+    let contents;
+    contents = window.location.pathname + window.location.search;
+    ReactGA.pageview(contents);
+  }
   render() {
     return (
       <Router>
@@ -35,7 +43,7 @@ class App extends Component {
               <Route exact path="/post/:postId" component={Post} />
               <Route exact path="/opinion" component={About} />
               <Route exact path="/feature" component={About} />
-              <Route exact path="/monotracker" component={About} />
+              <Route exact path="/monotracker" component={MonoTracker} />
               <Route exact path="/dailydan" component={DailyDan} />
               <Route exact path="/campaigncoverage" component={Election} />
               <Route exact path="/mardle" component={Mardle} />

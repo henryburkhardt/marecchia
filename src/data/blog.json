@@ -1,14 +1,25 @@
 {
   "data": [
     {
+      "id": 1,
+      "blogCategory": "Opinion",
+      "blogTitle": "Trough Feeding: The Future of SPA Lunch",
+      "slug": "",
+      "postedOn": "March 1, 2022",
+      "author": "Anonymous Contributer",
+      "blogImage": "https://imgprd19.hobbylobby.com/f/d2/2a/fd22a68d6f318510f3d9e4a12745f47792f176a8/700Wx700H-1406073-0220-px.jpg",
+      "blogText": "In recent weeks frustration about long lunch lines has grown among the student body, but few solutions have been proposed. This year, the addition of a second lunch line was good in theory but has done little to ease long waiting times. In times like these, drastic actions must sometimes be taken. One solution recently proposed is the Trough Feeding System. The Marecchia spoke to the student (who preferred to remain anonymous) who made the idea and he explained it simply as a “revolutionary liquid-based community-style feeding solution, where each lunch would be liquified in a blender and then poured into large communal style troughs.” He added that “straws would, of course, be provided to each student.” While the idea has faced some pushback because of how it treats children like farm animals, the anonymous founder noted that this might be outweighed by the fact that, “the entire school could literally eat lunch in the span of 10 minutes.” The idea also has the advantage of treating all students equally (everyone would get the same time in the trough, and the same diameter straw). This is especially refreshing after the recent propagation of ideas like the GPA-based food system and the Underclassmen Just Don’t Get Lunch philosophy. The founder is pushing for a pilot trough feeding program to serve as a proof of concept for the plan and has opened a volunteer sign-up list. “It’s possible that the school isn’t ready for this revolution, but I truly believe troughs are the future of consumption.” "
+    },
+    {
       "id": 3,
       "blogCategory": "News",
       "blogTitle": "Mike Pence Anounces Visit to SPA durring X-Period next Thursday",
       "slug": "",
       "postedOn": "March 2, 2022",
       "author": "Anonymous Contributer",
-      "blogImage": "https://storage.googleapis.com/afs-prod/media/b2e74c568aa1460597fe952dbe33df0e/3000.jpeg",
-      "blogText": "Content will go here."
+      "blogImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/V20200729DS-0340_%2850167142363%29.jpg/1200px-V20200729DS-0340_%2850167142363%29.jpg?20200923175055",
+      "imageCredit": "Wikimedia Commons, Fair Use Image",
+      "blogText": "Last week, after overwhelming requests from the student body former Vice President Mike Pence has announced his intention to visit SPA next Thursday. Pence will be speaking on the Ukraine-Russia crisis and also his role in undermining democracy throughout his time in the White House. One student the Marecchia spoke to said, “the amount of support from the student body is incredible. We love Mike Pence as an institution, so it's really cool that he’s finally agreed to come speak to us.” Students are encouraged to participate in a Q&A after his talk but the Pence team has discouraged any questions “about to the election or honestly anything political or anything to do with how he refers to his wife as ‘Mother,’” as all of these are sore topics for him. Interested students are encouraged to spread election misinformation around campus to help create a welcoming environment for Pence and his team."
     }
   ]
 }

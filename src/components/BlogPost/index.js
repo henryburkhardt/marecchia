@@ -28,7 +28,11 @@ const BlogPost = (props) => {
         <h3 class="my-4">{post.author}</h3>
         <div className="post-thumb">
           <span class="blog-post-tag">{post.blogCategory}</span>
-          <img src={post.blogImage} style={{ width: "100%" }} />
+          <img
+            src={post.blogImage}
+            style={{ width: "100%" }}
+            title={post.imageCredit}
+          />
 
           {/* <img src={require('../../assets/images/mustang.jpg')} /> */}
         </div>
