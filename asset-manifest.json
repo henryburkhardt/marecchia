@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/marrechia/static/css/main.8594c20e.chunk.css",
-    "main.js": "/marrechia/static/js/main.5d138ad5.chunk.js",
-    "main.js.map": "/marrechia/static/js/main.5d138ad5.chunk.js.map",
-    "runtime-main.js": "/marrechia/static/js/runtime-main.01f10d23.js",
-    "runtime-main.js.map": "/marrechia/static/js/runtime-main.01f10d23.js.map",
-    "static/js/2.b53042e4.chunk.js": "/marrechia/static/js/2.b53042e4.chunk.js",
-    "static/js/2.b53042e4.chunk.js.map": "/marrechia/static/js/2.b53042e4.chunk.js.map",
-    "index.html": "/marrechia/index.html",
-    "precache-manifest.cc750dd6e1c14dae900aa4cc66e20a0e.js": "/marrechia/precache-manifest.cc750dd6e1c14dae900aa4cc66e20a0e.js",
-    "service-worker.js": "/marrechia/service-worker.js",
-    "static/css/main.8594c20e.chunk.css.map": "/marrechia/static/css/main.8594c20e.chunk.css.map",
-    "static/js/2.b53042e4.chunk.js.LICENSE.txt": "/marrechia/static/js/2.b53042e4.chunk.js.LICENSE.txt",
-    "static/media/DOS.png": "/marrechia/static/media/DOS.8ca0cab6.png"
+    "main.css": "/marecchia/static/css/main.8594c20e.chunk.css",
+    "main.js": "/marecchia/static/js/main.72006242.chunk.js",
+    "main.js.map": "/marecchia/static/js/main.72006242.chunk.js.map",
+    "runtime-main.js": "/marecchia/static/js/runtime-main.5b9bed3f.js",
+    "runtime-main.js.map": "/marecchia/static/js/runtime-main.5b9bed3f.js.map",
+    "static/js/2.b53042e4.chunk.js": "/marecchia/static/js/2.b53042e4.chunk.js",
+    "static/js/2.b53042e4.chunk.js.map": "/marecchia/static/js/2.b53042e4.chunk.js.map",
+    "index.html": "/marecchia/index.html",
+    "precache-manifest.b592acd10b7c4f4aede7ea2d5695c51a.js": "/marecchia/precache-manifest.b592acd10b7c4f4aede7ea2d5695c51a.js",
+    "service-worker.js": "/marecchia/service-worker.js",
+    "static/css/main.8594c20e.chunk.css.map": "/marecchia/static/css/main.8594c20e.chunk.css.map",
+    "static/js/2.b53042e4.chunk.js.LICENSE.txt": "/marecchia/static/js/2.b53042e4.chunk.js.LICENSE.txt",
+    "static/media/DOS.png": "/marecchia/static/media/DOS.8ca0cab6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.01f10d23.js",
+    "static/js/runtime-main.5b9bed3f.js",
     "static/js/2.b53042e4.chunk.js",
     "static/css/main.8594c20e.chunk.css",
-    "static/js/main.5d138ad5.chunk.js"
+    "static/js/main.72006242.chunk.js"
   ]
 }
