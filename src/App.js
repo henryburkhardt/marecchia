@@ -10,7 +10,7 @@ import DailyDan from "./components/DailyDan";
 import Election from "./components/Election";
 import Mardle from "./components/Mardle";
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route,
   Link,
