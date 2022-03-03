@@ -1,16 +1,13 @@
 import React from "react";
 
-import AllPosts from '../components/AllPosts';
+import AllPosts from "../components/AllPosts";
 const MainPage = () => {
-    return(
+  return (
+    <div>
+      {/* <h3 className="my-3">All Posts</h3> */}
+      <AllPosts />
+    </div>
+  );
+};
 
-        <div>
-            <h3 className="my-3">All Posts</h3>
-            <AllPosts />
-        </div>
-  
-
-    )
-}
-
-export  default MainPage;
+export default MainPage;

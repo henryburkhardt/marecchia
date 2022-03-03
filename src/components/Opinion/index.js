@@ -4,10 +4,16 @@ import { NavLink } from "react-router-dom";
 
 /**
  * @author
- * @function AllPosts
+ * @function Opinion
  **/
+let opinions = [];
+for (let i; i < blogPost.length; i++) {
+  if (blogPost[i].blogCategory === "Opinion") {
+    opinions.push(blogPost[i]);
+  }
+}
 
-const AllPosts = (props) => {
+const Opinion = (props) => {
   const [posts, setPosts] = useState([]);
 
   useEffect(() => {
@@ -42,4 +48,4 @@ const AllPosts = (props) => {
   );
 };
 
-export default AllPosts;
+export default Opinion;

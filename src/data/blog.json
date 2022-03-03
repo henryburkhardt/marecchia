@@ -1,54 +1,54 @@
 {
-    "data" : [
-        {
-            "id": 1,
-            "blogCategory": "Ελλάδα - Αθήνα",
-            "blogTitle" : "Επεκτείνεται η Αττική οδός προς Ραφήνα, Βουλιαγμένης και Εθνική Οδό",
-            "slug": "",
-            "postedOn": "June 19, 2020",
-            "author": "Unknown",
-            "blogImage": "https://images.pexels.com/photos/681335/pexels-photo-681335.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-            "blogText": "Το υπουργείο Υποδομών και Μεταφορών ετοιμάζει τις επεκτάσεις της Αττικής Οδού που παρουσιάζουν μεγάλο επενδυτικό ενδιαφέρον μιας και εκτιμάται ότι θα έχουν την ίδια εμπορική επιτυχία που έχει και ο σημερινός κορμός του άξονα. Σύμφωνα πληροφορίες, έχουν ωριμάσει κάποιες από τις επεκτάσεις και συγκεκριμένα, πιο προχωρημένη θεωρείται η επέκταση της Λεωφόρου Κύμης στην Εθνική Οδό που έχει εγκεκριμένους περιβαλλοντικούς όρους, ενώ και η επέκταση προς Ραφήνα είναι σε διαδικασία ενεργοποίησης μελετών. Ακόμα πιο φιλόδοξο, είναι το σχέδιο για την επέκταση της Αττικής Οδού μέχρι τη Λεωφόρο Βουλιαγμένης μέσω της λεγόμενης “Αστικής Σήραγγας Ηλιούπολης” μήκους περίπου 3 χιλιομέτρων. Η σήραγγα αυτή θα ξεκινά από την Κατεχάκη (εκεί που σήμερα ξεκινά η Δυτική Περιφερειακή Υμηττού) και θα καταλήγει χωρίς εξόδους, στη Λεωφόρο Βουλιαγμένης, στο ύψος του Αγίου Δημητρίου, κοντά στον ομώνυμο σταθμό Μετρό."
-        },
-        {
-            "id": 2,
-            "blogCategory": "Καινοτιμία",
-            "blogTitle": "Tesla: Λιγότερα ρομπότ στο εργοστάσιό της στη Γερμανία λόγω των τεράστιων μηχανών χύτευσης αλουμινίου",
-            "slug": "",
-            "postedOn": "Feb 21, 2018",
-            "author": "Unknown",
-            "blogImage": "https://images.pexels.com/photos/258083/pexels-photo-258083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-            "blogText": "Η Tesla έκρινε πως τα ρομπότ δεν είναι αρκετά αποτελεσματικά στο νέο Gigafactory εργοστάσιο της στη Γερμανία και έτσι σχεδιάζει να αντικαταστήσει εκατοντάδες ρομπότ με μηχανές χύτευσης αλουμινίου (Gigapress) για την κατασκευή ενιαίων εξαρτημάτων που χρησιμοποιούνται στη κατασκευή του πλαισίου των αυτοκινήτων της...."
-        },
-        {
-            "id": 3,
-            "blogCategory": "Ευρώπη",
-            "blogTitle": "To Suzuki Jimny μόνο ως επαγγελματικό στην Ευρώπη",
-            "slug": "",
-            "postedOn": "Feb 21, 2018",
-            "author": "Unknown",
-            "blogImage": "https://i0.wp.com/www.autoblog.gr/wp-content/uploads/2020/09/Suzuki-Jimny-Light-Commercial-Vehicle-1.jpg?resize=696%2C492&ssl=1",
-            "blogText": "Στις αρχές του χρόνου η Suzuki έκανε γνωστό πως το Jimny σταματά να πωλείται στην Ευρώπη ως επιβατικό, λόγω των νέων κανονισμών εκπομπών CO2 που θα τεθούν σε εφαρμογή το 2021. Τότε η εταιρία είχε ανακοινώσει πως το Jimny θα προσφέρεται μόνο ως επαγγελματικό στις ευρωπαϊκές αγορές και σήμερα Suzuki μας δείχνει τη συγκεκριμένη έκδοση. Σε σχέση με την επιβατική έκδοση, η επαγγελματική έκδοση του Jimny δεν έχει πίσω καθίσματα, έχοντας έτσι έναν μεγάλο χώρο φόρτωσης 863 λίτρων με διαχωριστικό προστατευτικό πλέγμα πίσω από τις πλάτες των καθισμάτων του οδηγού και του συνοδηγού."
-        },
-        {
-            "id": 4,
-            "blogCategory": "Ελλάδα - Αθήνα",
-            "blogTitle": "Δοκιμαστικό δρομολόγιο για το πρώτο ηλεκτρικό λεωφορείο στην Αθήνα",
-            "slug": "",
-            "postedOn": "Feb 21, 2018",
-            "author": "Albi",
-            "blogImage": "https://i1.wp.com/www.autoblog.gr/wp-content/uploads/2020/09/byd-ebus_0000.jpg?resize=696%2C435&ssl=1",
-            "blogText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        }
-        ,{
-            "id": 5,
-            "blogCategory": "Αυτοκίνητο",
-            "blogTitle": "Οι τιμές του ανανεωμένου Suzuki Swift στην Ελλάδα",
-            "slug": "",
-            "postedOn": "Feb 21, 2018",
-            "author": "Albi",
-            "blogImage": "https://i1.wp.com/www.autoblog.gr/wp-content/uploads/2020/09/2021-suzuki-swift-facelift-europe-4.jpg?resize=696%2C461&ssl=1",
-            "blogText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        }
-    ]
+  "data": [
+    {
+      "id": 4,
+      "blogCategory": "News",
+      "blogTitle": "Entire Stats Class (about 90%) Fails Stats Test",
+      "slug": "",
+      "postedOn": "June 19, 2021",
+      "author": "Pah Na",
+      "blogImage": "https://www.spreadsheetweb.com/wp-content/uploads/2019/04/pie-chart-excel-1080x675.jpg",
+      "blogText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At risus viverra adipiscing at in tellus integer. Sit amet porttitor eget dolor morbi non. Viverra accumsan in nisl nisi. Feugiat in ante metus dictum. Diam sollicitudin tempor id eu nisl nunc mi. Orci nulla pellentesque dignissim enim sit amet venenatis urna cursus. Diam in arcu cursus euismod quis viverra nibh cras pulvinar. Egestas erat imperdiet sed euismod nisi porta lorem. Mi sit amet mauris commodo quis. Dui ut ornare lectus sit amet. At consectetur lorem donec massa sapien. Diam volutpat commodo sed egestas egestas fringilla phasellus. Consectetur libero id faucibus nisl tincidunt eget. Sed risus ultricies tristique nulla aliquet enim tortor at"
+    },
+    {
+      "id": 1,
+      "blogCategory": "Opinion",
+      "blogTitle": "Trough Feeding: The Future of SPA Lunch",
+      "slug": "",
+      "postedOn": "June 19, 2020",
+      "author": "Henry Burkhardt",
+      "blogImage": "https://imgprd19.hobbylobby.com/f/d2/2a/fd22a68d6f318510f3d9e4a12745f47792f176a8/700Wx700H-1406073-0220-px.jpg",
+      "blogText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At risus viverra adipiscing at in tellus integer. Sit amet porttitor eget dolor morbi non. Viverra accumsan in nisl nisi. Feugiat in ante metus dictum. Diam sollicitudin tempor id eu nisl nunc mi. Orci nulla pellentesque dignissim enim sit amet venenatis urna cursus. Diam in arcu cursus euismod quis viverra nibh cras pulvinar. Egestas erat imperdiet sed euismod nisi porta lorem. Mi sit amet mauris commodo quis. Dui ut ornare lectus sit amet. At consectetur lorem donec massa sapien. Diam volutpat commodo sed egestas egestas fringilla phasellus. Consectetur libero id faucibus nisl tincidunt eget. Sed risus ultricies tristique nulla aliquet enim tortor at"
+    },
+    {
+      "id": 2,
+      "blogCategory": "News",
+      "blogTitle": "Math Deparment Anounces Hexagons Will No Longer be Taught in 10th Grade Geometry",
+      "slug": "",
+      "postedOn": "June 19, 2020",
+      "author": "Henry Burkhardt",
+      "blogImage": "data:image/jpeg;base64,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",
+      "blogText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At risus viverra adipiscing at in tellus integer. Sit amet porttitor eget dolor morbi non. Viverra accumsan in nisl nisi. Feugiat in ante metus dictum. Diam sollicitudin tempor id eu nisl nunc mi. Orci nulla pellentesque dignissim enim sit amet venenatis urna cursus. Diam in arcu cursus euismod quis viverra nibh cras pulvinar. Egestas erat imperdiet sed euismod nisi porta lorem. Mi sit amet mauris commodo quis. Dui ut ornare lectus sit amet. At consectetur lorem donec massa sapien. Diam volutpat commodo sed egestas egestas fringilla phasellus. Consectetur libero id faucibus nisl tincidunt eget. Sed risus ultricies tristique nulla aliquet enim tortor at"
+    },
+    {
+      "id": 3,
+      "blogCategory": "News",
+      "blogTitle": "Mike Pence Anounces Visit to SPA durring X-Period next Thursday",
+      "slug": "",
+      "postedOn": "June 19, 2020",
+      "author": "Henry Burkhardt",
+      "blogImage": "https://storage.googleapis.com/afs-prod/media/b2e74c568aa1460597fe952dbe33df0e/3000.jpeg",
+      "blogText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At risus viverra adipiscing at in tellus integer. Sit amet porttitor eget dolor morbi non. Viverra accumsan in nisl nisi. Feugiat in ante metus dictum. Diam sollicitudin tempor id eu nisl nunc mi. Orci nulla pellentesque dignissim enim sit amet venenatis urna cursus. Diam in arcu cursus euismod quis viverra nibh cras pulvinar. Egestas erat imperdiet sed euismod nisi porta lorem. Mi sit amet mauris commodo quis. Dui ut ornare lectus sit amet. At consectetur lorem donec massa sapien. Diam volutpat commodo sed egestas egestas fringilla phasellus. Consectetur libero id faucibus nisl tincidunt eget. Sed risus ultricies tristique nulla aliquet enim tortor at"
+    },
+    {
+      "id": 5,
+      "blogCategory": "Feature",
+      "blogTitle": "Burkhardt Stairwell of Academic Excellence Offically Opens",
+      "slug": "",
+      "postedOn": "June 19, 2020",
+      "author": "Henry Burkhardt",
+      "blogImage": "https://storage.googleapis.com/afs-prod/media/b2e74c568aa1460597fe952dbe33df0e/3000.jpeg",
+      "blogText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At risus viverra adipiscing at in tellus integer. Sit amet porttitor eget dolor morbi non. Viverra accumsan in nisl nisi. Feugiat in ante metus dictum. Diam sollicitudin tempor id eu nisl nunc mi. Orci nulla pellentesque dignissim enim sit amet venenatis urna cursus. Diam in arcu cursus euismod quis viverra nibh cras pulvinar. Egestas erat imperdiet sed euismod nisi porta lorem. Mi sit amet mauris commodo quis. Dui ut ornare lectus sit amet. At consectetur lorem donec massa sapien. Diam volutpat commodo sed egestas egestas fringilla phasellus. Consectetur libero id faucibus nisl tincidunt eget. Sed risus ultricies tristique nulla aliquet enim tortor at"
+    }
+  ]
 }
