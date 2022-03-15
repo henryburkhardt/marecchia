@@ -20,21 +20,21 @@ const AllPosts = (props) => {
       {posts.map((post) => {
         return (
           <div className="col-md-3">
-            <img
-              src={post.blogImage}
-              style={{ width: "100%", height: "60.667%", objectFit: "cover" }}
-            />
+            <NavLink key={post.id} to={`/post/${post.id}`}>
+              <img
+                src={post.blogImage}
+                style={{ width: "100%", height: "60.667%", objectFit: "cover" }}
+              />
 
-            <p className="lead2">
-              <NavLink key={post.id} to={`/post/${post.id}`}>
+              <p className="lead2">
                 {" "}
                 <div className="post-author2">
                   <span className={post.blogCategory}>{post.blogCategory}</span>
                   {post.author}
                 </div>
                 <div className="post-title2">{post.blogTitle}</div>{" "}
-              </NavLink>
-            </p>
+              </p>
+            </NavLink>
           </div>
         );
       })}

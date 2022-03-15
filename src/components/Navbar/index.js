@@ -8,15 +8,9 @@ export default class Nav extends React.Component {
         <Link className=" link" to="/">
           Home
         </Link>
-        <Link to="/campaigncoverage" className="link">
-          Campaign Coverage
+        <Link to="/electioncoverage" className="link">
+          Election Coverage
         </Link>
-        {/* <Link to="/opinion" className="link">
-          Opinion
-        </Link>
-        <Link to="/feature" className="link">
-          Feature
-        </Link> */}
         <Link to="/dailydan" className="link">
           Daily Dan
         </Link>

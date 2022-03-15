@@ -40,6 +40,10 @@ const BlogPost = (props) => {
           <div>{post.blogText}</div>
           <p className="mt-5 text-muted">
             Posted on: {post.postedOn} by {post.author}
+            {" / "}
+            <a class="disclaimer" href="/#/disclaimer">
+              DISCLAIMER
+            </a>
           </p>
         </div>
       </div>
